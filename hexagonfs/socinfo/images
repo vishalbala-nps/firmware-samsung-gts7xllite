@@ -1,0 +1,35 @@
+0:
+	CRM:		00:BOOT.XF.3.3-00303-BITRALAZ-1
+	Variant:	BitraPkgLAA
+	Version:	:SWDM8407
+1:
+	CRM:		01:TZ.XF.5.10-63419-4
+	Variant:	SAJAANAAA
+	Version:	:CRM
+10:
+	CRM:		10:UP1A.231005.007:T735XXS9DYF1
+
+	Variant:	gts7xllitexx-user
+
+	Version:	REL
+
+11:
+	CRM:		11:MPSS.HI.2.5.1-00739.1-BITRA_GEN_PACK-1.3086.277.79634.3
+	Variant:	bitra.gen.prodQ
+	Version:	:SWDJ5909
+12:
+	CRM:		12:ADSP.VT.5.6-00702.1-BITRA-1
+	Variant:	bitra.adsp.prodQ
+	Version:	:SWDM8407
+14:
+	CRM:		14:VIDEO.VPU.1.2-00042-PROD-1
+	Variant:	PROD
+	Version:	
+16:
+	CRM:		16:CDSP.VT.2.6-00570.1-BITRA-1.63419.3
+	Variant:	bitra.cdsp.prodQ
+	Version:	:SWDM8407
+17:
+	CRM:		17:NPU.FW.2.3-00054-BITRA_NPU_PACK-1
+	Variant:	bitra.npu.prodQ
+	Version:	:CRM
